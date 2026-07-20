@@ -2,9 +2,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **ChatGPT clone**
-- 🌱 I’m currently learning **[FastAPI, React, System Design, Object-Oriented Design]**
-- 💬 Ask me about **[Python, Backend Development, AI]**
-- 📫 visite my website for more about services/projects/blogs : **[soufian.engineer]**
+- 🌱 I’m currently learning **FastAPI, React, System Design, Object-Oriented Design**
+- 💬 Ask me about **Python, Backend Development, AI**
+- 📫 visite my website for more about services/projects/blogs : **soufian.engineer**
 
 ---
 
