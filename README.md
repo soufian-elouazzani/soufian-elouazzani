@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Soufian Elouazzani 👋
 
-<!--
-**soufian-elouazzani/soufian-elouazzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on **ChatGPT clone**
+- 🌱 I’m currently learning **[FastAPI, React, System Design, Object-Oriented Design]**
+- 💬 Ask me about **[Python, Backend Development, AI]**
+- 📫 visite my website for more about services/projects/blogs : **[soufian.engineer]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=soufian.elouazzani&show_icons=true&theme=tokyonight)
