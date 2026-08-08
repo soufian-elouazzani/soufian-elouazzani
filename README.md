@@ -24,6 +24,5 @@ I live between **software engineering, DevOps, and SRE** — less “it works on
 
 [![Website](https://img.shields.io/badge/soufian.engineer-004F90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soufian.engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soufian-elouazzani-6b7310216)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soufian-elouazzani)
 
 *Build it. Automate it. Don’t babysit it.* ⚡
