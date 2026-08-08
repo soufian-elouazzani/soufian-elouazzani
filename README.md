@@ -18,8 +18,6 @@ I live between **software engineering, DevOps, and SRE** — less “it works on
   </a>
 </p>
 
-**Python** is my go-to · also Java, Bash, SQL · Docker / K8s · Terraform / Ansible · Jenkins / GitLab CI · FastAPI · PostgreSQL
-
 ---
 
 ### 🌐 Find me
