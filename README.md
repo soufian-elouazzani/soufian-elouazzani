@@ -1,15 +1,48 @@
-# Soufian Elouazzani
+# Hey, I'm Soufian 👋
 
-Software engineer who likes building **systems end to end** — from application code to the infrastructure that runs it.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=004F90&center=false&vCenter=true&width=520&lines=I+build+systems+end+to+end;Code.+Ship.+Automate.+Repeat.;Python+%7C+DevOps+%7C+Kubernetes" alt="Typing SVG" />
+</p>
 
-I work across **DevOps, SRE, and software engineering**: CI/CD, containers, Kubernetes, Infrastructure as Code, and backend services. I care about making things **reliable, automated, and easy to operate**.
+Software engineer who likes owning the **full path**: write the service, containerize it, wire the CI, deploy it, and keep it running.
 
-### What I use most
-**Python** · Java · Bash · SQL · Docker · Kubernetes · Terraform · Ansible · Jenkins · GitLab CI · Linux · FastAPI · PostgreSQL 
+I live between **software engineering, DevOps, and SRE** — less “it works on my machine”, more **“it ships and stays up”**.
 
-### What I’m building
-A **multi-repo AI chat platform** with a FastAPI gateway, async workers, and full infra on bare-metal Kubernetes (Grid'5000) — Terraform, Ansible, Kustomize.  
-→ [chat-app-infra](https://github.com/soufian-elouazzani/chat-app-infra)
+---
 
-### Links
-[soufian.engineer](https://soufian.engineer) · [GitHub](https://github.com/soufian-elouazzani) · [LinkedIn](https://linkedin.com/in/soufian-elouazzani-6b7310216)
+### 🛠️ Stack I actually enjoy
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,bash,linux,docker,kubernetes,terraform,ansible,fastapi,react,postgres,git,jenkins,gitlab,aws&perline=8" alt="Skills" />
+  </a>
+</p>
+
+**Python** is my go-to · also Java, Bash, SQL · Docker / K8s · Terraform / Ansible · Jenkins / GitLab CI · FastAPI · PostgreSQL · React
+
+---
+
+### 🚀 What I'm cooking
+
+Building a **multi-repo AI chat platform** — FastAPI gateway, async workers, GPU inference — with full infra on bare-metal Kubernetes (Grid'5000): Terraform → Ansible → Kustomize.
+
+📦 [chat-app-infra](https://github.com/soufian-elouazzani/chat-app-infra) — the platform side of the story
+
+---
+
+### 📊 GitHub vibes
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=soufian-elouazzani&show_icons=true&theme=transparent&hide_border=true&title_color=004F90&icon_color=004F90&text_color=333" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufian-elouazzani&layout=compact&theme=transparent&hide_border=true&title_color=004F90&text_color=333" alt="Top languages" />
+</p>
+
+---
+
+### 🌐 Find me
+
+[![Website](https://img.shields.io/badge/soufian.engineer-004F90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soufian.engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soufian-elouazzani-6b7310216)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soufian-elouazzani)
+
+*Build it. Automate it. Don’t babysit it.* ⚡
