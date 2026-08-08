@@ -30,15 +30,6 @@ Building a **multi-repo AI chat platform** — FastAPI gateway, async workers, G
 
 ---
 
-### 📊 GitHub vibes
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=soufian-elouazzani&show_icons=true&theme=transparent&hide_border=true&title_color=004F90&icon_color=004F90&text_color=333" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufian-elouazzani&layout=compact&theme=transparent&hide_border=true&title_color=004F90&text_color=333" alt="Top languages" />
-</p>
-
----
-
 ### 🌐 Find me
 
 [![Website](https://img.shields.io/badge/soufian.engineer-004F90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soufian.engineer)
