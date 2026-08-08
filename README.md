@@ -1,17 +1,15 @@
-# Hi there, I'm Soufian Elouazzani 👋
+# Soufian Elouazzani
 
-### 🚀 About Me
-- 🔭 I’m currently working on **ChatGPT clone**
-- 🌱 I’m currently learning **FastAPI, React, System Design, Object-Oriented Design**
-- 💬 Ask me about **Python, Backend Development, AI**
-- 📫 visite my website for more about Services/Experience/Engineering Projects/Blogs : **soufian.engineer**
+Software engineer who likes building **systems end to end** — from application code to the infrastructure that runs it.
 
----
+I work across **DevOps, SRE, and software engineering**: CI/CD, containers, Kubernetes, Infrastructure as Code, and backend services. I care about making things **reliable, automated, and easy to operate**.
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### What I use most
+**Python** · Java · Bash · SQL · Docker · Kubernetes · Terraform · Ansible · Jenkins · GitLab CI · Linux · FastAPI · PostgreSQL 
 
+### What I’m building
+A **multi-repo AI chat platform** with a FastAPI gateway, async workers, and full infra on bare-metal Kubernetes (Grid'5000) — Terraform, Ansible, Kustomize.  
+→ [chat-app-infra](https://github.com/soufian-elouazzani/chat-app-infra)
 
+### Links
+[soufian.engineer](https://soufian.engineer) · [GitHub](https://github.com/soufian-elouazzani) · [LinkedIn](https://linkedin.com/in/soufian-elouazzani-6b7310216)
