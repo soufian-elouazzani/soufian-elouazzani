@@ -18,15 +18,7 @@ I live between **software engineering, DevOps, and SRE** — less “it works on
   </a>
 </p>
 
-**Python** is my go-to · also Java, Bash, SQL · Docker / K8s · Terraform / Ansible · Jenkins / GitLab CI · FastAPI · PostgreSQL · React
-
----
-
-### 🚀 What I'm cooking
-
-Building a **multi-repo AI chat platform** — FastAPI gateway, async workers, GPU inference — with full infra on bare-metal Kubernetes (Grid'5000): Terraform → Ansible → Kustomize.
-
-📦 [chat-app-infra](https://github.com/soufian-elouazzani/chat-app-infra) — the platform side of the story
+**Python** is my go-to · also Java, Bash, SQL · Docker / K8s · Terraform / Ansible · Jenkins / GitLab CI · FastAPI · PostgreSQL
 
 ---
 
