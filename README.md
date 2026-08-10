@@ -20,6 +20,14 @@ I live between **software engineering, DevOps, and SRE** — less “it works on
 
 ---
 
+### 🧰 Off-the-clock
+
+![Hiking](https://img.shields.io/badge/Hiking-⛰️-2E7D32?style=for-the-badge)
+![Distance Cycling](https://img.shields.io/badge/Distance_Cycling-🚴-0288D1?style=for-the-badge)
+![Chess](https://img.shields.io/badge/Chess-♟️-37474F?style=for-the-badge)
+
+---
+
 ### 🌐 Find me
 
 [![Website](https://img.shields.io/badge/soufian.engineer-004F90?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soufian.engineer)
