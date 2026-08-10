@@ -35,12 +35,3 @@ I live between **software engineering, DevOps, and SRE** — less “it works on
 ![Hiking](https://img.shields.io/badge/Hiking-⛰️-2E7D32?style=for-the-badge)
 ![Distance Cycling](https://img.shields.io/badge/Distance_Cycling-🚴-0288D1?style=for-the-badge)
 ![Chess](https://img.shields.io/badge/Chess-♟️-37474F?style=for-the-badge)
-
----
-
-### ⚡ Off-the-clock
-
-* ⛰️ **Hiking** — Off-grid reset & mountain trails
-* 🚴 **Long-Distance Cycling** — Endurance & pacing
-* ♟️ **Chess** — Strategic tactical thinking
-* 
