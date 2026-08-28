@@ -6,7 +6,7 @@
 
 Software engineer who likes owning the **full path**: write the service, containerize it, wire the CI, deploy it, and keep it running.
 
-I live between **software engineering, DevOps, and SRE** — less “it works on my machine”, more **“it ships and stays up”**.
+I live between **software engineering, DevOps, and SRE**
 
 ---
 
